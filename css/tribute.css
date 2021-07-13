@@ -1,0 +1,60 @@
+.title{
+  font-family: Trebuchet MS;
+  font-size:45px;
+}
+#title-caption{
+  font-family:arial;
+  font-size:15px;
+  color:hsl(349, 30%, 51%);
+}
+#img-div{
+  padding:10px 20px 10px 20px;
+  background:white;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  margin:15px;
+}
+#image{
+  max-width:80%;
+  height:auto;
+  margin:10px;
+  align-self:center
+}
+#tribute-info{
+  line-height:120%;
+  font-size:15px;
+}
+#quotes{
+  background:white;
+  padding:1%;
+}
+main{
+  background-color: hsl(349, 30%, 94%);
+
+}
+p{
+  font-size:20px
+}
+
+a:hover{
+  color:red;
+  font-size:105%;
+}
+.center{
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+  text-align: center;
+}
+li{
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
